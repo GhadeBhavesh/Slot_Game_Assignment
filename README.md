@@ -1,6 +1,6 @@
 # Slot Game Assignment — Classic 3-Reel Slot Machine
 
-https://github.com/user-attachments/assets/68fdf07f-fe99-4084-a3b8-c20bbd964b00
+https://github.com/user-attachments/assets/01d9228b-bf6b-4313-a44b-a0896b8cd813
 
 A 3-reel slot machine prototype developed in **Unity 6 (6000.6.4f1)** using C# and Unity UI (uGUI), following clean OOP architecture and data-driven design. Built as an educational game prototype using the supplied assignment art assets.
 
